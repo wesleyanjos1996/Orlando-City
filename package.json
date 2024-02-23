@@ -1,0 +1,15 @@
+{
+  "name": "orlando-city",
+  "version": "1.0.0",
+  "description": "Página web sobre Orlando City, está lading page tem como objetivo utilizar tecnologias front-end para testar e evoluir as habilidades de um desenvolvedor web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wesley dos Anjos",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.6"
+  }
+}
